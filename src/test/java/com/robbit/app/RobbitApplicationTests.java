@@ -8,6 +8,7 @@ class RobbitApplicationTests {
 
 	@Test
 	void contextLoads() {
+
 	}
 
 }
